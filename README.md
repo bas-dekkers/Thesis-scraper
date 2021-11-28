@@ -1,4 +1,4 @@
-# Thesis-scraper
+# What influences the degree of virality?
 In this repository can 2 python scripts be found. These scripts have been used to collect additional data for my thesis. 
 In the text below I will shortly explain what each scraper does. 
 
